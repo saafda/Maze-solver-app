@@ -15,6 +15,12 @@ then "About" for information about the app.
 
 For installation feel free to clone or fork repository and test out the application for yourself.
 
+## Visuals
+
+<img width="912" alt="Screenshot 2022-12-21 at 10 01 12" src="https://user-images.githubusercontent.com/85120441/208869406-8c7b945d-26f4-4e71-82cc-2c552bbfbbe5.png">
+
+<img width="612" alt="Screenshot 2022-12-21 at 10 03 03" src="https://user-images.githubusercontent.com/85120441/208869466-cf5d4011-bdec-48d0-b340-684f594c85ab.png">
+
 
 ## Contributing
 
