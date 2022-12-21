@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="500.0" stylesheets="@App.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="50.0" layoutY="72.0" lineSpacing="3.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Your objective in this game is to traverse through the maze and get from the green square to the red square. Sometimes this can prove to be quite challenging therefore if you give up and want the solution you can click the give up button. " textAlignment="CENTER" wrappingWidth="400.0">
+         <font>
+            <Font size="9.0" />
+         </font>
+      </Text>
+      <Text layoutX="10.0" layoutY="178.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Move by using the WASD-keys to move up, right, down and right. ">
+         <font>
+            <Font size="8.0" />
+         </font>
+      </Text>
+      <Text layoutX="115.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Selecting give up solves the maze.">
+         <font>
+            <Font size="8.0" />
+         </font>
+      </Text>
+      <Text layoutX="140.0" layoutY="367.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="Made by anonymous student at NTNU ">
+         <font>
+            <Font size="7.0" />
+         </font></Text>
+      <ImageView fx:id="imageView" fitHeight="66.0" fitWidth="90.0" layoutX="229.0" layoutY="251.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@solaire.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

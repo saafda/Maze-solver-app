@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.button{
+    -fx-font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', cursive;
+    -fx-background-color: #92CD41;
+    background-color: #92CD41;
+    -fx-font-size: 15px;
+    font-size: 15px;
+    -fx-padding: 5px;
+    padding: 5px;
+    -fx-text-fill: #FFFFFF;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.text{
+    -fx-font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2p', cursive;
+    
+}
+
+.nodes{
+    -fx-background-color: #FAFAFA;
+    background-color: #FAFAFA;
+    
+}
